@@ -20,9 +20,9 @@ NLP_Project_2026/
 
 │
 
-├── data/                   # Raw datasets (6 datasets combined and manipulate to become 3 datasets -Train||Validate||Test-)
+├── DataSets/                   # Raw datasets (6 datasets combined and manipulate to become 3 datasets -Train||Validate||Test-)
 
-├── notebooks/              # Jupyter notebooks
+├── NoteBooks/              # Jupyter notebooks
 
 │   ├── preprocessing.ipynb # Cleaning + tokenization
 
