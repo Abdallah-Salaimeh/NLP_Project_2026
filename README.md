@@ -24,9 +24,9 @@ NLP_Project_2026/
 
 ├── NoteBooks/              # Jupyter notebooks
 
-│   ├── preprocessing.ipynb # Cleaning + tokenization
+│   ├── PreProcessing_NLP.ipynb # Cleaning + tokenization
 
-│   └── training.ipynb      # Model training (WIP) (NOT DONE YET)
+│   └── training.ipynb      # Model training (WIP) 
 
 ├── environment.yml         # Conda environment file
 
