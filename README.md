@@ -20,7 +20,7 @@ NLP_Project_2026/
 
 │
 
-├── DataSets/                   # Raw datasets (6 datasets combined and manipulate to become 3 datasets -Train||Validate||Test-)
+├── DataSets/                   # Raw datasets (6 datasets combined and split to become -Train||Validate||Test-)
 
 ├── NoteBooks/              # Jupyter notebooks
 
