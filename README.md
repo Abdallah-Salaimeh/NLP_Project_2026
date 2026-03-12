@@ -98,7 +98,7 @@ The preprocessing is done in `notebooks/preprocessing.ipynb` and follows this or
 
 ‎
 
-**2. Train / Validation / Test Split** — 80% / 10% / 10%
+**2. Train / Validation / Test Split** — 70% / 15% / 15%
 
 ‎
 
