@@ -16,11 +16,11 @@ The model we are using is **AraBART** (`moussaKam/AraBART`), a transformer-based
 ```
 NLP_Project_2026/
 │
-├── DataSets/                       # Raw datasets (6 datasets combined and split → Train || Validate || Test)
-├── NoteBooks/                      # Jupyter notebooks
-│   ├── PreProcessing_NLP.ipynb     # Cleaning + tokenization
-│   └── training.ipynb              # Model training (WIP)
-├── environment.yml                 # Conda environment file
+├── DataSets/                                                # Raw datasets (6 datasets combined and split → Train || Validate || Test)
+├── NoteBooks/                                               # Jupyter notebooks
+│   ├── PreProcessing_NLP.ipynb                              # Cleaning + tokenization
+│   └── final_full_seq2seq_early_stopping.ipynb              # Model training (WIP)
+├── environment.yml                                          # Conda environment file
 └── README.md
 ```
 
