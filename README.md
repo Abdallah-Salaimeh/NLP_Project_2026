@@ -20,6 +20,7 @@ NLP_Project_2026/
 ├── NoteBooks/                                               # Jupyter notebooks
 │   ├── PreProcessing_NLP.ipynb                              # Cleaning + tokenization
 │   └── final_full_seq2seq_early_stopping.ipynb              # Model training (WIP)
+├── Arabic_Text_Summarization Project.pptx                   # The powerpoint slides
 ├── environment.yml                                          # Conda environment file
 └── README.md
 ```
